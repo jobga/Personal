@@ -1,0 +1,79 @@
+   body{ 
+      font-family: 'Libre Franklin', sans-serif;
+      }
+	article{
+		margin:5%;
+		}	  
+    footer{ 
+      background: #333; color: #fff;
+      line-height:8px;
+      padding: 25px; 
+    }
+    footer a{
+      color: #aaa;
+    }
+	a:active{ color:#FF6900;}
+	a:visited{ color:#006E97;}
+    h4{
+      margin-bottom: 5%;
+    }
+    section .col-sm-4{
+      margin-bottom: 3%;    
+    }
+    #banner{
+      /*background: url(http://www.wallpapersxl.com/wallpapers/1600x900/pin-up/122026/pin-up-surge-free-photography-and-on-pinterest-with-122026.jpg);*/
+    }
+    .btn{
+      
+      border: 1px solid #005883;
+      padding: 1%;
+    }
+    .jumbotron{     
+      margin-top: 10%;       
+      background: #fff; 
+      margin-bottom: 0; 
+      height: 60vh;
+    }
+	.jumbotrons{     
+      margin-top: 10%;       
+      background: #fff; 
+      margin-bottom: 0; 
+      height: 30vh;
+    }
+    .jumbotron h1{
+      color: #F47920; 
+      text-transform: uppercase;  
+      font-size: 15vh;    
+    } 
+    .jumbotron h2{
+      color: #333; 
+      text-transform: uppercase;  
+      font-size: 5vh;    
+    } 
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+      height: 80px;
+    } 
+    .news{
+      padding-top: 2%;
+      padding-bottom: 2%;
+      background: #f9f9f9;
+      color: #333;
+      margin-bottom: 5%
+    }
+	.img{box-shadow: 5px 5px 8px 1px rgba(24,24,24,0.5); }
+    .img-tema{ height: 200px; width: 100%; }
+    .espacio{
+      padding-top: 3%;
+      padding-bottom: 3%;
+      color: #fff;
+    }
+	.gris{
+		padding-top:2%;
+		background:#f5f5f5;
+		}
+    .container-fluid{ 
+      padding-bottom: 3%;  
+    }
+    .border-white{ border:1px solid #fff; color: #fff; }
