@@ -1,0 +1,42 @@
+
+/* 
+font-family: 'Monda', sans-serif;
+*/
+
+/* ESTRUCTURA GLOBAL */
+
+.scene{
+    z-index: 1;
+}
+
+
+/* scene one */
+.info{
+    position: relative;    
+    z-index: 3;
+}
+
+.boxs{ 
+    position: absolute;   
+    height: 20vh; 
+    width: 100%;
+    z-index: 2;
+}
+
+#box_02{    
+    font-size: 5em;
+    color: #f0f0f0;  
+    top:0px;
+    left: 0px;
+}
+
+section{
+	position:relative;
+	}
+/* end ecene one */
+
+
+
+
+
+
